@@ -4,9 +4,9 @@
     "symbol": "NB",
     "sellerFeeBasisPoints": 500,
     "gatekeeper": null,
-    "solTreasuryAccount": "FXyTm7DS4dePAfNcLsnX9ZGpbseG5FTzPRs7ckp5FxcZ",
-    "splTokenAccount": null,
-    "splToken": null,
+    "solTreasuryAccount": null,
+    "splTokenAccount": "GUNMBAyNGSthkjs7GVjpvV9rHgQzBU69hNiQmGig9NAB",
+    "splToken": "AqrY3Vs5DjdVCNYrDMfkpP6JL4C6kbKoSLvBhc2gq7DT",
     "goLiveDate": "2022-07-24T00:00:00Z",
     "endSettings": null,
     "whitelistMintSettings": null,
@@ -15,14 +15,10 @@
     "awsS3Bucket": null,
     "retainAuthority": true,
     "isMutable": true,
-    "isSequential": false,
-    "ruleSet": null,
-    "Guard": null, 
     "creators": [
-        {
-            "address": "FXyTm7DS4dePAfNcLsnX9ZGpbseG5FTzPRs7ckp5FxcZ",
-            "share": 100
-        }
-    ]
-  }
-  
+    {
+      "address": "GUNMBAyNGSthkjs7GVjpvV9rHgQzBU69hNiQmGig9NAB",
+      "share": 100
+    }
+  ]
+}
